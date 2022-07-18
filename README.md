@@ -1,9 +1,15 @@
 # Typescript로 블록체인 만들기
 
+### 학습 내용
+* Interface
+* Classes
+* Call Signatures / Polymorphism / Generics
+* JSDoc
+
 ### 구현 내용
 * 객체지향으로 블록 생성
 
-### 결과 예시
+### 결과 내용
 
 ```
 [
