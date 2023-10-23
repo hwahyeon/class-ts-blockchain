@@ -1,15 +1,24 @@
-# Typescript로 블록체인 만들기
+# Typescript for Beginners
 
-### 학습 내용
-* Interface
-* Classes
-* Call Signatures / Polymorphism / Generics
-* JSDoc
+`Typescript` `Blockchain`
+
+## 개요
+
+이 저장소는 **Typescript로 블록체인 만들기**의 학습 내용이 정리되어 있습니다.
+
+> 강사 : Nicolas
+
+## 학습 목표
+- Typescript 기초 학습
+
+## 학습 내용
+- Interface
+- Classes
+- Call Signatures / Polymorphism / Generics
+- JSDoc
 
 ### 구현 내용
 * 객체지향으로 블록 생성
-
-### 결과 내용
 
 ```
 [
@@ -33,3 +42,8 @@
   }
 ]
 ```
+
+## 참고 자료
+[강의 소개](https://nomadcoders.co/typescript-for-beginners)
+
+[챌린지 소개](https://nomadcoders.co/typescript-challenge)
